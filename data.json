@@ -3,10 +3,10 @@
       
     "AdNetwork"            : "admob",
     
-    "AdMob_ID"             : "",
-    "AdMob_Banner"         : "",
-    "AdMob_InterstitialAd" : "",
-    "AdMob_RewardAd"       : "",
+    "AdMob_ID"             : "ca-app-pub-3071522790697118~1300476287",
+    "AdMob_Banner"         : "ca-app-pub-3071522790697118/9324736694",
+    "AdMob_InterstitialAd" : "ca-app-pub-3071522790697118/8011655029",
+    "AdMob_RewardAd"       : "ca-app-pub-3071522790697118/5385491680",
     
     "Applovin_Banner"         : "",
     "Applovin_InterstitialAd" : "",
